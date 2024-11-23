@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziyuegao-yoyo. You can call me gao, or yoyo. Yeah, “yoyo” is the “yoyo” of yoyo-ball, although I am not good at it, but I just love it so much.
 - 👀 I’m interested in using first-principles calculation and non-traditional isotope to understand the geological systems, especially metallogenic system.
-- 🌱 I’m currently learning python, GROMACS, LAMMPS and French.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on comprehensive studies of DFT, molecular dynamic simulation, isotope and ore deposits.
 - 📫 How to reach me : E-mail: ziyuegao.geo@qq.com
 
